@@ -6,7 +6,15 @@
 		<li>1.3</li>
 	</supportedVersions>
 	<packageId>shadowswilliam.moonguardians</packageId>
-	<description>
-This mod adds a few custom variants of the Persona Monosword.
+	<description>This mod adds special variants of the Persona Monosword dubbed Moonguards. Each Moonguard's personality is pre-defined and their stats vary aswell.
+Some are better than the default Persona Monosword in every regard, while others only excel in specific areas and are inferior compared to other stats.
 	</description>
+  <modDependencies>
+    <li>
+      <packageId>kentington.saveourship2</packageId>
+      <displayName>Save Our Ship 2</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/1909914131</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
 </ModMetaData>
